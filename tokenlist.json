@@ -1,0 +1,122 @@
+{
+    "name": "AleSwap List",
+    "timestamp": "2021-07-03T8:25:10.982Z",
+    "version": {
+      "major": 3,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "http://teerapat.com/aleswap/aleswapcoin.png",
+    "keywords": [
+      "aleswap",
+      "token"
+    ],
+    "tokens": [
+      {
+        "name": "AleSwap Token",
+        "address": "0x99CA242f20424a6565cc17a409E557FA95E25BD7",
+        "symbol": "ALE",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "http://teerapat.com/aleswap/aleswapcoin.png"
+      },    
+      {
+        "name": "CRAFT Stablecoin",
+        "address": "0x19Ea6042ca81bcd1FEC329004Fd5967AFdC6745e",
+        "symbol": "CRAFT",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://www.teerapat.com/aleswap/craftcoin64x64.png"
+      },       
+      {
+        "name": "Bitcoin",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "symbol": "BTCB",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.bscswap.com/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+      },
+      {
+        "name": "DAI Stablecoin",
+        "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+        "symbol": "DAI",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://bscscan.com/token/images/dai_32.png"
+      },    
+      {
+        "name": "Binance USD Stablecoin",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.bscswap.com/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+      },   
+      {
+        "name": "Ethereum Token",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "symbol": "ETH",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.bscswap.com/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+      },  
+      {
+        "name": "Tether Stablecoin",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "symbol": "USDT",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.bscswap.com/images/0x55d398326f99059fF775485246999027B3197955.png"
+      },      
+      {
+        "name": "UST Stablecoin",
+        "symbol": "UST",
+        "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://exchange.borgswap.exchange/images/coins/ust.png"
+      },
+      {
+        "name": "USDC Stablecoin",
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://exchange.borgswap.exchange/images/coins/usdc.png"
+      },
+      {
+        "name": "PancakeSwap Token",
+        "symbol": "CAKE",
+        "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/pancake_32.png?=v1"
+      },    
+      {
+        "name": "JDIToken",
+        "symbol": "JDI",
+        "address": "0x0491648C910ad2c1aFaab733faF71D30313Df7FC",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/jdiyield_32.png"
+      },        
+      {
+        "name": "ZFARM Token",
+        "symbol": "ZFARM",
+        "address": "0x42d1B21EaBE04D308148eA9Ab90Be674b64b4eef",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/zfarm_32.png"
+      },  
+      {
+        "name": "ZMINE Token",
+        "symbol": "ZMN",
+        "address": "0xFCb8a4B1a0B645e08064e05B98E9cc6f48D2aa57",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/zminetoken_32.png"
+      }
+    ]
+  }
+  
