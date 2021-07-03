@@ -1,9 +1,9 @@
 {
     "name": "AleSwap List",
-    "timestamp": "2021-07-03T8:25:10.982Z",
+    "timestamp": "2021-07-03T8:42:10.982Z",
     "version": {
       "major": 3,
-      "minor": 0,
+      "minor": 1,
       "patch": 0
     },
     "tags": {},
@@ -93,6 +93,14 @@
         "decimals": 18,
         "logoURI": "https://bscscan.com/token/images/pancake_32.png?=v1"
       },    
+      {
+        "name": "Cardano Token",
+        "symbol": "ADA",
+        "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/cardano_32.png"
+      },   
       {
         "name": "JDIToken",
         "symbol": "JDI",
