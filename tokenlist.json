@@ -93,7 +93,30 @@
         "decimals": 18,
         "logoURI": "https://bscscan.com/token/images/pancake_32.png?=v1"
       },    
-      
+      {
+        "name": "Cardano Token",
+        "symbol": "ADA",
+        "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/cardano_32.png"
+      },   
+      {
+        "name": "Polkadot Token",
+        "symbol": "DOT",
+        "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
+      },         
+      {
+        "name": "MIR Token",
+        "symbol": "MIR",
+        "address": "0x5B6DcF557E2aBE2323c48445E8CC948910d8c2c9",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/mirrorfinance_32.png"
+      },              
       {
         "name": "JDIToken",
         "symbol": "JDI",
